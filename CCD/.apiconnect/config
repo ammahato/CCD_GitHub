@@ -1,0 +1,9 @@
+us.apiconnect.ibmcloud.com.meta:
+  formFactor: BLUEMIX_PUBLIC
+  serverCapabilities:
+    authTypes:
+      - basic
+      - token
+catalog: 'apic-catalog://us.apiconnect.ibmcloud.com/orgs/souravchakrabartyinibmcom-dev/catalogs/my-notes-catalog'
+app: 'apic-app://us.apiconnect.ibmcloud.com/orgs/souravchakrabartyinibmcom-dev/apps/CCD'
+org: 'apic-org://us.apiconnect.ibmcloud.com/orgs/souravchakrabartyinibmcom-dev'

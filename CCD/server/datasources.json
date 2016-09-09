@@ -1,0 +1,11 @@
+{
+  "CS_DS": {
+    "host": "demo.strongloop.com",
+    "port": 3306,
+    "database": "getting_started",
+    "password": "L00pBack",
+    "name": "CS_DS",
+    "connector": "mysql",
+    "user": "demo"
+  }
+}
